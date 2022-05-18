@@ -136,11 +136,19 @@
     },
 
     {
+        "name":"HTML, CSS, & JS Quiz",
+        "date": "4/15/22",
+        "description": "Quiz using JS and JSON to dynamically create questions and grade quiz.",
+        "link": "https://naomiclark2004.github.io/mta-quiz/",
+        "src": "images/capstone.png"
+    },
+    {
         "name" : "Calendar",
         "date": "4/18/22",
         "description": "Calendar project using JS to create dynamic calendar widget.",
         "link": "https://naomiclark2004.github.io/calendar/",
         "src": "images/calendar.png"
     }
+
 
 ]
