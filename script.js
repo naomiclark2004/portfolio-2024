@@ -32,6 +32,7 @@ function makeDivs(item, index) {
     container.append(boxitem);
     var link = document.createElement('a');
     link.href = item.link;
+    link.target="_blank";
     boxitem.append(link);
     var boxphoto = document.createElement('div');
     boxphoto.className = "box-photo";
@@ -53,6 +54,7 @@ function makeDivs(item, index) {
     desc.innerHTML = item.description;
     boxcontent.append(desc);
 }
+
 function savetoStorage() {
     localStorage.setItem("projects", JSON.stringify(list));
 }
