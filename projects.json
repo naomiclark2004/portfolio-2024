@@ -121,7 +121,7 @@
     "src": "images/command.png"
   },
   {
-    "name": "To Do List",
+    "name": "To Do",
     "date": "03/26/24",
     "description": "Python command line app that creates a to do list text file for user.",
     "link": "https://github.com/naomiclark-estrella/Module8.git",
