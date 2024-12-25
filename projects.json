@@ -1,42 +1,18 @@
 [
   {
-    "name": "AZ Landmarks",
-    "date": "08/23/21",
-    "description": "CSS project on text properties by creating a website.",
-    "link": "https://naomiclark2004.github.io/az-landmarks/",
-    "src": "images/grandcanyon.png"
-  },
-
-  {
-    "name": "Landing Page",
-    "date": "09/1/21",
-    "description": "CSS landing page project using google fonts and a background image.",
-    "link": "https://naomiclark2004.github.io/landing-page/",
-    "src": "images/landing-page.png"
-  },
-
-  {
     "name": "Resume",
     "date": "09/01/21",
     "description": "Resume project using font text and font face properties.",
     "link": "https://naomiclark2004.github.io/resume/",
-    "src": "images/resume2.png"
+    "src": "images/resume.png"
   },
 
   {
     "name": "Career Tree",
     "date": "10/21/21",
-    "description": "Project to compare the three levels of careers and show their lifestyle.",
+    "description": "Project to compare the three levels of careers and show their lifestyles.",
     "link": "https://naomiclark2004.github.io/career-tree/",
     "src": "images/career tree.png"
-  },
-
-  {
-    "name": "Registration Form",
-    "date": "11/01/21",
-    "description": "JS project using functions and built off of an earlier form project.",
-    "link": "https://naomiclark2004.github.io/registration-form/",
-    "src": "images/registration form.png"
   },
 
   {
@@ -50,7 +26,7 @@
   {
     "name": "Quiz",
     "date": "11/09/21",
-    "description": "Quiz project using JS to create a functional, graded, and time quiz.",
+    "description": "Quiz project using JS to create a functional, graded, and timed quiz.",
     "link": "https://naomiclark2004.github.io/quiz/",
     "src": "images/quiz.png"
   },
@@ -58,33 +34,9 @@
   {
     "name": "Tic-Tac-Toe",
     "date": "11/17/21",
-    "description": "Tic-Tac-Toe project using JS to create a fully functioning tic-tac-toe game.",
+    "description": "Tic-Tac-Toe project using JS to create a fully functional tic-tac-toe game.",
     "link": "https://naomiclark2004.github.io/Tic-Tac_Toe/",
     "src": "images/tictactoe.png"
-  },
-
-  {
-    "name": "CSS Transition",
-    "date": "11/23/21",
-    "description": "CSS Transition project using transition properties to create transitions.",
-    "link": "https://naomiclark2004.github.io/stylish-girl/",
-    "src": "images/transition.png"
-  },
-
-  {
-    "name": "Button Hover",
-    "date": "11/30/21",
-    "description": "Button Hover project using transitions to change element properties on hover.",
-    "link": "https://naomiclark2004.github.io/button-hover/",
-    "src": "images/button.png"
-  },
-
-  {
-    "name": "Animation",
-    "date": "12/3/21",
-    "description": "Animation project using CSS & JS to make an animation.",
-    "link": "https://naomiclark2004.github.io/boy-animations/",
-    "src": "images/animation.png"
   },
 
   {
@@ -94,19 +46,10 @@
     "link": "https://naomiclark2004.github.io/hosting-plans/",
     "src": "images/hosting-plan.png"
   },
-
-  {
-    "name": "SVG and Canvas",
-    "date": "02/03/22",
-    "description": "SVG & Canvas project using CSS & JS to create Svg and Canvas images.",
-    "link": "https://naomiclark2004.github.io/svg-vs-canvas/",
-    "src": "images/svg-canvas.png"
-  },
-
   {
     "name": "JQuery Portfolio",
     "date": "02/10/22",
-    "description": "Portfolio project using jQuery library to create a portfolio template.",
+    "description": "Portfolio project using the jQuery library to create a portfolio template.",
     "link": "https://naomiclark2004.github.io/jquery-portfolio/",
     "src": "images/portfolio.png"
   },
@@ -138,7 +81,7 @@
   {
     "name": "HTML, CSS, & JS Quiz",
     "date": "04/15/22",
-    "description": "Quiz using JS and JSON to dynamically create questions and grade quiz.",
+    "description": "Quiz project using JS and JSON to create graded quiz.",
     "link": "https://naomiclark2004.github.io/mta-quiz/",
     "src": "images/capstone.png"
   },
@@ -152,28 +95,21 @@
   {
     "name": "Jokes App",
     "date": "10/31/22",
-    "description": "Jokes project using Norris Jokes API. Made in Next.js with MongoDB database.",
+    "description": "Jokes project using Norris Jokes API and Next.js.",
     "link": "https://naomi-norris-jokes.netlify.app/",
     "src": "images/laugh.png"
   },
   {
     "name": "Quotes Generator",
     "date": "11/01/22",
-    "description": "React project using API to fetch random quotes.",
+    "description": "Quotes project using quote API to fetch random quotes.",
     "link": "https://naomi-quotes-generator.netlify.app/",
     "src": "images/quote.png"
   },
   {
-    "name": "Movies App",
-    "date": "11/03/22",
-    "description": "Next.js project using movies API to create Movie Search App.",
-    "link": "https://moviepage123.netlify.app/",
-    "src": "images/movie.png"
-  },
-  {
     "name": "Weather App",
     "date": "11/07/22",
-    "description": "React project using weather API to create Weather App.",
+    "description": "React project using weather API to create weather app.",
     "link": "https://naomi-clark-weather-app.netlify.app/",
     "src": "images/weather.png"
   },
@@ -187,19 +123,19 @@
   {
     "name": "To Do List",
     "date": "03/26/24",
-    "description": "Python command line app that creates a to do list text file for a user.",
+    "description": "Python command line app that creates a to do list text file for user.",
     "link": "https://github.com/naomiclark-estrella/Module8.git",
     "src": "images/todo.png"
   },
   {
-    "name": "Games App",
+    "name": "Generator App",
     "date": "04/25/24",
-    "description": "Madlib game and sentence scramble generator using Python and Flask.",
+    "description": "Madlib story and sentence scramble generators using Python and Flask.",
     "link": "https://github.com/naomiclark2004/python-flask-app.git",
     "src": "images/python.png"
   },
   {
-    "name": "Basic Website",
+    "name": "Php and MySQL Website",
     "date": "05/02/24",
     "description": "Web app for CIS166AE final that uses HTML, PHP and MySQL.",
     "link": "http://naomi-php.atwebpages.com/",
@@ -211,12 +147,5 @@
     "description": "Search netflix catolog using python and flask.",
     "link": "https://github.com/naomiclark2004/netflix-search",
     "src": "images/netflix.png"
-  },
-  {
-    "name": "Retro Realm",
-    "date": "05/7/24",
-    "description": "Web app for CIS235 final showcasing PayPal payment button.",
-    "link": "https://naomiclark-estrella.github.io/CIS235/",
-    "src": "images/retro.png"
   }
 ]
