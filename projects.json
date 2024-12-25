@@ -1,7 +1,7 @@
 [
   {
     "name": "AZ Landmarks",
-    "date": "8/23/21",
+    "date": "08/23/21",
     "description": "CSS project on text properties by creating a website.",
     "link": "https://naomiclark2004.github.io/az-landmarks/",
     "src": "images/grandcanyon.png"
@@ -9,7 +9,7 @@
 
   {
     "name": "Landing Page",
-    "date": "9/1/21",
+    "date": "09/1/21",
     "description": "CSS landing page project using google fonts and a background image.",
     "link": "https://naomiclark2004.github.io/landing-page/",
     "src": "images/landing-page.png"
@@ -17,7 +17,7 @@
 
   {
     "name": "Resume",
-    "date": "9/1/21",
+    "date": "09/01/21",
     "description": "Resume project using font text and font face properties.",
     "link": "https://naomiclark2004.github.io/resume/",
     "src": "images/resume2.png"
@@ -33,7 +33,7 @@
 
   {
     "name": "Registration Form",
-    "date": "11/1/21",
+    "date": "11/01/21",
     "description": "JS project using functions and built off of an earlier form project.",
     "link": "https://naomiclark2004.github.io/registration-form/",
     "src": "images/registration form.png"
@@ -41,7 +41,7 @@
 
   {
     "name": "Calculator",
-    "date": "11/5/21",
+    "date": "11/05/21",
     "description": "Calculator project using JS to create a functional calculator.",
     "link": "https://naomiclark2004.github.io/calculator/",
     "src": "images/calculator.png"
@@ -49,7 +49,7 @@
 
   {
     "name": "Quiz",
-    "date": "11/9/21",
+    "date": "11/09/21",
     "description": "Quiz project using JS to create a functional, graded, and time quiz.",
     "link": "https://naomiclark2004.github.io/quiz/",
     "src": "images/quiz.png"
@@ -89,7 +89,7 @@
 
   {
     "name": "Hosting Plan",
-    "date": "1/20/22",
+    "date": "01/20/22",
     "description": "Hosting Plan project using a JS constructer to make dynamic pricing.",
     "link": "https://naomiclark2004.github.io/hosting-plans/",
     "src": "images/hosting-plan.png"
@@ -97,7 +97,7 @@
 
   {
     "name": "SVG and Canvas",
-    "date": "2/3/22",
+    "date": "02/03/22",
     "description": "SVG & Canvas project using CSS & JS to create Svg and Canvas images.",
     "link": "https://naomiclark2004.github.io/svg-vs-canvas/",
     "src": "images/svg-canvas.png"
@@ -105,7 +105,7 @@
 
   {
     "name": "JQuery Portfolio",
-    "date": "2/10/22",
+    "date": "02/10/22",
     "description": "Portfolio project using jQuery library to create a portfolio template.",
     "link": "https://naomiclark2004.github.io/jquery-portfolio/",
     "src": "images/portfolio.png"
@@ -113,7 +113,7 @@
 
   {
     "name": "Bootstrap Ecommerce",
-    "date": "2/15/22",
+    "date": "02/15/22",
     "description": "Ecommerce project using Bootstrap & JS to create a dynamic ecommerce website.",
     "link": "https://naomiclark2004.github.io/ecommerce/",
     "src": "images/ecommerce.png"
@@ -121,7 +121,7 @@
 
   {
     "name": "Digital Clock",
-    "date": "3/11/22",
+    "date": "03/11/22",
     "description": "Digital Clock project using JS to create dynamic digital clock.",
     "link": "https://naomiclark2004.github.io/digital-clock/",
     "src": "images/digital-clock.png"
@@ -129,7 +129,7 @@
 
   {
     "name": "JSON Places & Maps",
-    "date": "3/28/22",
+    "date": "03/28/22",
     "description": "Places & Maps project using JS & JSON to dynamically embed maps in webpage.",
     "link": "https://naomiclark2004.github.io/dynamic-list/",
     "src": "images/places-maps.png"
@@ -137,20 +137,19 @@
 
   {
     "name": "HTML, CSS, & JS Quiz",
-    "date": "4/15/22",
+    "date": "04/15/22",
     "description": "Quiz using JS and JSON to dynamically create questions and grade quiz.",
     "link": "https://naomiclark2004.github.io/mta-quiz/",
     "src": "images/capstone.png"
   },
   {
     "name": "Calendar",
-    "date": "4/18/22",
+    "date": "04/18/22",
     "description": "Calendar project using JS to create dynamic calendar widget.",
     "link": "https://naomiclark2004.github.io/calendar/",
     "src": "images/calendar.png"
   },
   {
-    "_id": { "$oid": "64484333e2dd743f440af6db" },
     "name": "Jokes App",
     "date": "10/31/22",
     "description": "Jokes project using Norris Jokes API. Made in Next.js with MongoDB database.",
@@ -158,7 +157,6 @@
     "src": "images/laugh.png"
   },
   {
-    "_id": { "$oid": "6438723f2211bedd1a832f3c" },
     "name": "Quotes Generator",
     "date": "11/01/22",
     "description": "React project using API to fetch random quotes.",
@@ -173,7 +171,6 @@
     "src": "images/movie.png"
   },
   {
-    "_id": { "$oid": "6438725e2211bedd1a832f3e" },
     "name": "Weather App",
     "date": "11/07/22",
     "description": "React project using weather API to create Weather App.",
@@ -181,13 +178,45 @@
     "src": "images/weather.png"
   },
   {
-    "_id": { "$oid": "6451783666a261f7b7817cf6" },
-    "name": "Clark Ecommerce",
-    "date": "12/19/22",
-    "description": "Reimagined ecommerce project using Next.js and Mongodb.",
-    "link": "https://clark-ecommerce.onrender.com",
-    "src": "images/ecom.png",
-    "collaborator": "Nysa Clark",
-    "collablink": "https://github.com/NysaClark"
+    "name": "Command Line Game",
+    "date": "12/06/23",
+    "description": "Java command line escape room game for CIS150AB final.",
+    "link": "https://github.com/naomiclark2004/command-line-game.git",
+    "src": "images/command.png"
+  },
+  {
+    "name": "To Do List",
+    "date": "03/26/24",
+    "description": "Python command line app that creates a to do list text file for a user.",
+    "link": "https://github.com/naomiclark-estrella/Module8.git",
+    "src": "images/todo.png"
+  },
+  {
+    "name": "Games App",
+    "date": "04/25/24",
+    "description": "Madlib game and sentence scramble generator using Python and Flask.",
+    "link": "https://github.com/naomiclark2004/python-flask-app.git",
+    "src": "images/python.png"
+  },
+  {
+    "name": "Basic Website",
+    "date": "05/02/24",
+    "description": "Web app for CIS166AE final that uses HTML, PHP and MySQL.",
+    "link": "http://naomi-php.atwebpages.com/",
+    "src": "images/php.png"
+  },
+  {
+    "name": "Netflix Search App",
+    "date": "05/6/24",
+    "description": "Search netflix catolog using python and flask.",
+    "link": "https://github.com/naomiclark2004/netflix-search",
+    "src": "images/netflix.png"
+  },
+  {
+    "name": "Retro Realm",
+    "date": "05/7/24",
+    "description": "Web app for CIS235 final showcasing PayPal payment button.",
+    "link": "https://naomiclark-estrella.github.io/CIS235/",
+    "src": "images/retro.png"
   }
 ]
