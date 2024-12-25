@@ -2,7 +2,7 @@
   {
     "name": "Resume",
     "date": "09/01/21",
-    "description": "Resume project using font text and font face properties.",
+    "description": "Baisc resume project using font text and font face properties.",
     "link": "https://naomiclark2004.github.io/resume/",
     "src": "images/resume.png"
   },
@@ -10,7 +10,7 @@
   {
     "name": "Career Tree",
     "date": "10/21/21",
-    "description": "Project to compare the three levels of careers and show their lifestyles.",
+    "description": "Career project that compares three career levels and their lifestyles.",
     "link": "https://naomiclark2004.github.io/career-tree/",
     "src": "images/career tree.png"
   },
@@ -49,7 +49,7 @@
   {
     "name": "JQuery Portfolio",
     "date": "02/10/22",
-    "description": "Portfolio project using the jQuery library to create a portfolio template.",
+    "description": "Portfolio project using the jQuery to create a portfolio template.",
     "link": "https://naomiclark2004.github.io/jquery-portfolio/",
     "src": "images/portfolio.png"
   },
@@ -73,7 +73,7 @@
   {
     "name": "JSON Places & Maps",
     "date": "03/28/22",
-    "description": "Places & Maps project using JS & JSON to dynamically embed maps in webpage.",
+    "description": "Places & Maps project using JS & JSON to show embed maps in webpage.",
     "link": "https://naomiclark2004.github.io/dynamic-list/",
     "src": "images/places-maps.png"
   },
@@ -95,21 +95,21 @@
   {
     "name": "Jokes App",
     "date": "10/31/22",
-    "description": "Jokes project using Norris Jokes API and Next.js.",
+    "description": "Jokes project using Norris Jokes API and Next.js. to show jokes.",
     "link": "https://naomi-norris-jokes.netlify.app/",
     "src": "images/laugh.png"
   },
   {
     "name": "Quotes Generator",
     "date": "11/01/22",
-    "description": "Quotes project using quote API to fetch random quotes.",
+    "description": "Quotes project using quote API and React to show random quotes.",
     "link": "https://naomi-quotes-generator.netlify.app/",
     "src": "images/quote.png"
   },
   {
     "name": "Weather App",
     "date": "11/07/22",
-    "description": "React project using weather API to create weather app.",
+    "description": "Weather project using weather API and React to create weather app.",
     "link": "https://naomi-clark-weather-app.netlify.app/",
     "src": "images/weather.png"
   },
@@ -128,7 +128,7 @@
     "src": "images/todo.png"
   },
   {
-    "name": "Generator App",
+    "name": "Generators App",
     "date": "04/25/24",
     "description": "Madlib story and sentence scramble generators using Python and Flask.",
     "link": "https://github.com/naomiclark2004/python-flask-app.git",
@@ -144,7 +144,7 @@
   {
     "name": "Netflix Search App",
     "date": "05/6/24",
-    "description": "Search netflix catolog using python and flask.",
+    "description": "Search Netflix catolog using Python and Flask.",
     "link": "https://github.com/naomiclark2004/netflix-search",
     "src": "images/netflix.png"
   }
