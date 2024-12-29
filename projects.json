@@ -131,7 +131,7 @@
     "name": "Generators App",
     "date": "04/25/24",
     "description": "Madlib story and sentence scramble generators using Python and Flask.",
-    "link": "https://github.com/naomiclark2004/python-flask-app.git",
+    "link": "https://naomiclark2004.pythonanywhere.com/",
     "src": "images/python.png"
   },
   {
