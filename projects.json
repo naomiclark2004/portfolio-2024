@@ -131,7 +131,7 @@
     "name": "Generators App",
     "date": "04/25/24",
     "description": "Madlib story and sentence scramble generators using Python and Flask.",
-    "link": "https://naomiclark2004.pythonanywhere.com/",
+    "link": "https://generators-app.onrender.com/scramble/",
     "src": "images/python.png"
   },
   {
@@ -145,7 +145,7 @@
     "name": "Netflix Search App",
     "date": "05/6/24",
     "description": "Search Netflix catolog using Python and Flask.",
-    "link": "https://github.com/naomiclark2004/netflix-search",
+    "link": "https://netflix-search-76on.onrender.com/",
     "src": "images/netflix.png"
   }
 ]
