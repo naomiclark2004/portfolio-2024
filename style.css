@@ -143,3 +143,11 @@ body {
   width: 100px;
   height: 25px;
 }
+
+@media screen and (max-width: 500px){
+  .container{
+    max-width: none;
+    margin: auto;
+    padding: auto;
+  }
+}
