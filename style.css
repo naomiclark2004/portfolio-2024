@@ -148,6 +148,7 @@ body {
   .container{
     max-width: none;
     margin: auto;
-    padding: auto;
+    justify-content: center;
+    align-items:unset;
   }
 }
